@@ -1,4 +1,4 @@
-# 🔐 Encoded Descriptor: #
+# 🔐 Encoded Descriptor:
 `<quantum.computer>` / `<collapse.state>`
 
 ---
