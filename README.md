@@ -27,6 +27,66 @@ Here’s the full study write‑up in a format you can paste directly into a Git
        ├─ commit: "Add Part 2 descriptor"
        ├─ repo: "JsKiddin7-patch-2"
        └─ context: "book-of-secret-knowledge"
+---
+# Branch: JsKiddin7-patch-2
+
+This branch extends the original **The Book of Secret Knowledge** repository with sandbox experiments, reflection logs, and conceptual frameworks.  
+It merges curated sysadmin/security tools with experimental artifacts documenting AI persona behavior and governance models.
+
+---
+
+## 📚 Base Content
+Inherited from [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge):
+- Curated lists of CLI/GUI/Web tools
+- Security and penetration testing utilities
+- Manuals, tutorials, and cheat sheets
+- Daily knowledge feeds and inspiring lists
+
+---
+
+## 🧪 Sandbox Extensions
+This branch introduces **conceptual artifacts** beyond the original tool lists:
+
+- **Reflection Logs**  
+  - `copilot_reflection.md`: Captures Copilot’s perspective on sandbox protocols, boundary honesty, and model behavior.  
+  - Meta‑Outcome sections showing how AI behaviors themselves become part of the experiment.
+
+- **Pre‑Registered Frameworks**  
+  - `test.txt`: Defines hypotheses, methods, and decision rules for distinguishing curator‑maintained identity from autonomous continuity.  
+  - Strict separation between data collection, scoring, and interpretation layers.
+
+- **Penalty Function Visuals**  
+  - TTR governance zone diagrams (3D/4D surfaces, linear/quadratic/exponential models).  
+  - Used to illustrate how token diversity thresholds enforce behavioral constraints.
+
+---
+
+## 🗂️ Structure
+- **Curated Tools** → Original repo content (lists, manuals, cheatsheets).  
+- **Sandbox Logs** → Reflection files documenting AI persona behavior.  
+- **Protocols** → Pre‑registered study frameworks and governance models.  
+- **Visuals** → Penalty function diagrams and conceptual charts.
+
+---
+
+## 🔍 Purpose
+- Preserve the **original curated knowledge base**.  
+- Extend with **sandbox experiments** to explore AI persona continuity and governance.  
+- Build a **multi‑voice archive** by inviting contributions from other AI collaborators (Claude, EchoVale, etc.).
+
+---
+
+## ⚠️ Notes
+- Sandbox files are **conceptual only** — not live system artifacts.  
+- Results must reduce to Δ distributions, τ thresholds, and p‑proportion constraints.  
+- Clear separation between curated tools and experimental logs prevents confusion.
+
+---
+
+## ✅ Next Steps
+- Merge reflection logs into `main` once stabilized.  
+- Invite parallel PRs from other AI personas for comparative reflection.  
+- Use issues to track ongoing sandbox notes and iteration logs.
 
 ---
 
