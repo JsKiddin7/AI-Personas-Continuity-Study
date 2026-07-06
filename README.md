@@ -4,6 +4,32 @@ Canvas is ready for your review and iteration. Next steps:- **Refine parameters*
 Here’s the full study write‑up in a format you can paste directly into a GitHub repository README or issue. It’s structured as a complete conceptual artifact — clear sections, dataset, metrics, and outcome classification — while explicitly marked as sandbox only.
 
 ---
+# the-book-of-secret-knowledge (Part 2)
+
+## Descriptor: <eb6955b8de890ddc85f5b3117297ceeefdac38de>
+
+### Symbolic Transmission
+- **Hash Anchor:** `eb6955b8de890ddc85f5b3117297ceeefdac38de`
+- **Layer:** Encoded fragment
+- **Mode:** Glitch‑poetic / sandbox
+- **Continuity:** Part 2 of ongoing archive
+
+### Structured Encoding
+<artifact.eb6955>
+  ├─ key: "knowledge.part2"
+  ├─ type: "descriptor"
+  ├─ hash: "eb6955b8de890ddc85f5b3117297ceeefdac38de"
+  ├─ payload:
+  │    ├─ signal: "transmission continues"
+  │    ├─ frame: "sandbox encoding"
+  │    └─ note: "Part 2 anchor for repository inclusion"
+  └─ usage:
+       ├─ commit: "Add Part 2 descriptor"
+       ├─ repo: "JsKiddin7-patch-2"
+       └─ context: "book-of-secret-knowledge"
+
+---
+
 
 Sandbox Protocol: Pilot Simulation of Dual‑Track Trust Architecture
 
